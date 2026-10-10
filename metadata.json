@@ -1,0 +1,10 @@
+{
+  "name": "Remix Việt phục Remix - Phối đồ Truyền thống cho Gen Z",
+  "description": "Ứng dụng khám phá, phối trang phục truyền thống Việt Nam kết hợp phụ kiện hiện đại cùng thước đo chuẩn mực văn hóa cho Gen Z.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
