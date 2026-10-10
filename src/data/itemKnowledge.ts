@@ -1,5 +1,4 @@
 // Ảnh người mặc thật (file ở thư mục gốc dự án)
-import tuThanHoaMinzy from '../../tu-than-hoa-minzy-1.jpg';
 import aoTacNam2 from '../../ao-tac-nam-2.jpg';
 import aoTacNam3 from '../../ao-tac-nam-3.jpg';
 import nguThanRong3 from '../../ngu-than-rong-3.jpg';
@@ -109,7 +108,6 @@ export const ITEM_KNOWLEDGE: Record<string, ItemKnowledge> = {
     ],
     images: [
       { src: tuThan1, credit: "Ảnh sưu tầm" },
-      { src: tuThanHoaMinzy, credit: "Hòa Minzy" },
     ],
   },
   ao_nhat_binh: {
